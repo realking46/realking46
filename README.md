@@ -30,8 +30,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realking46&show_icons=true&locale=en&layout=compact" alt="deepakbhagatiitr" /></p>
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realking46&show_icons=true&locale=en&layout=compact" alt="deepakbhagatiitr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realking46&show_icons=true&locale=en" alt="deepakbhagatiitr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realking46&" alt="deepakbhagatiitr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realking46&" alt="deepakbhagatiitr" /></p> -->
