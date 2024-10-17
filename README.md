@@ -1,8 +1,6 @@
-
-     ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1>Hi, Myself Nishant </h1>
 <!-- <h3 align="center"></h3> -->
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU4NjZ3MTRoZGVna2ZsaTU0bGY5NGo4ZXlrNHpodGd2ZmZpNDViZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=minimalist%20tech%20logo%20design&imgurl=https%3A%2F%2Feasy-peasy.ai%2Fcdn-cgi%2Fimage%2Fquality%3D80%2Cformat%3Dauto%2Cwidth%3D700%2Fhttps%3A%2F%2Ffdczvxmwwjwpwbeeqcth.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2F42b7cae8-dc7d-498a-85b5-8835dfd79e94%2F36d52e55-df0b-4101-a6cc-f42f327a198b.png&imgrefurl=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Fmodern-minimalist-technology-logo-design&docid=9pTK8IhCCjK_FM&tbnid=m56Z0CGEoumAIM&vet=12ahUKEwjbzO_jjJaJAxUK3jgGHV1QLr0QM3oFCIABEAA..i&w=700&h=700&hcb=2&ved=2ahUKEwjbzO_jjJaJAxUK3jgGHV1QLr0QM3oFCIABEAA">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" /> </p>
