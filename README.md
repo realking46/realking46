@@ -1,9 +1,6 @@
 <h1>Hi, Myself Nishant </h1>
 <!-- <h3 align="center"></h3> -->
-<img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/42b7cae8-dc7d-498a-85b5-8835dfd79e94/36d52e55-df0b-4101-a6cc-f42f327a198b.png">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbhagatiitr&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbhagatiitr" /> </p>
+<!-- <img align="right" alt="Coding" width="400" src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/42b7cae8-dc7d-498a-85b5-8835dfd79e94/36d52e55-df0b-4101-a6cc-f42f327a198b.png"> -->
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
